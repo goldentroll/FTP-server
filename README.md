@@ -17,7 +17,7 @@ port number -> PORT (2525), the maximum size in the tcp queue requests ->
 QUEUE (15) , home directory where all the clients files will be stored ->
 HOME (./ftphome);
 
-##### 3. Once Filezilla is loaded and the configuration file is set, in the connection bar
+3. Once Filezilla is loaded and the configuration file is set, in the connection bar
 at the top in Filezilla in the Host section fill the domain name or the ip address 
 of the machine that the server is running on, in the username and password sections
 fill the ftp credentials for the user and in the port section the port number that 
