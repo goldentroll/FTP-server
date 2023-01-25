@@ -7,10 +7,10 @@
 + Comparible with FileZilla 
 
 ### How to use this software:
-##### 1. Install Filezilla ftp client.
+1. Install Filezilla ftp client.
 To download filezilla follow the link: https://filezilla-project.org/download.php
 
-##### 2. First, the configuration file must be filled with the parameters needed.
+2. First, the configuration file must be filled with the parameters needed.
 In file params.conf there are 4 parameters that must be configured or left 
 as they are with the default values: Number of threads -> THREADS (10) , 
 port number -> PORT (2525), the maximum size in the tcp queue requests ->
@@ -30,6 +30,4 @@ established ready to transfer files.
 
 ** Step 2 : In parenthesis are all the default values.
 
-** Step 2 : For the port choice we choose the port 2525 and not the default 21 
-since it is a reserved port and root access to the machine needed to use port 
-21. Thus, the server uses a non reserved port by default to prevent failures.
+** Step 2 : For the port choice we choose the port 2525 and not the default 21  since it is a reserved port and root access to the machine needed to use port  21. Thus, the server uses a non reserved port by default to prevent failures.
