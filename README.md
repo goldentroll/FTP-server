@@ -7,17 +7,17 @@
 + Comparible with FileZilla 
 
 ### How to use this software:
-1. Install Filezilla ftp client.
+##### 1. Install Filezilla ftp client.
 To download filezilla follow the link: https://filezilla-project.org/download.php
 
-2. First, the configuration file must be filled with the parameters needed.
+##### 2. First, the configuration file must be filled with the parameters needed.
 In file params.conf there are 4 parameters that must be configured or left 
 as they are with the default values: Number of threads -> THREADS (10) , 
 port number -> PORT (2525), the maximum size in the tcp queue requests ->
 QUEUE (15) , home directory where all the clients files will be stored ->
 HOME (./ftphome);
 
-3. Once Filezilla is loaded and the configuration file is set, in the connection bar
+##### 3. Once Filezilla is loaded and the configuration file is set, in the connection bar
 at the top in Filezilla in the Host section fill the domain name or the ip address 
 of the machine that the server is running on, in the username and password sections
 fill the ftp credentials for the user and in the port section the port number that 
