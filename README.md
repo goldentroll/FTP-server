@@ -1,12 +1,12 @@
 # FTP-server
 
-###Implementation of an FTP server with the following features:
+### Implementation of an FTP server with the following features:
 + Programming language and libraries: C language - TLS/SSL protocol - openssl library
 + Parallelism: multithreading process
 + Security: TLS channels and sockets
 + Comparible with FileZilla 
 
-###How to use this software:
+### How to use this software:
 1. Install Filezilla ftp client.
 To download filezilla follow the link: https://filezilla-project.org/download.php
 
